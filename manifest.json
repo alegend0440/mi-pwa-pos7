@@ -1,0 +1,21 @@
+{
+  "name": "Mini-Tienda POS Pro",
+  "short_name": "POS Pro",
+  "description": "Sistema POS automatizado y control de inventario",
+  "start_url": "PEGA_AQUÍ_EL_ENLACE_DE_TU_APLICACION_WEB_DE_APPS_SCRIPT",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#1e40af",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3595/3595490.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3595/3595490.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
